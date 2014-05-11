@@ -1,0 +1,6 @@
+Name: LeoSat 2
+Description: Does stuff.
+Executable: leosat
+Docs: leosat
+Config: leosat
+Dependency: lib-butter
